@@ -1,0 +1,17 @@
+{
+  "name": "responsive-images",
+  "version": "1.0.0",
+  "description": "A helper package to create responsive images ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "1.5.3",
+    "grunt-cwebp": "3.0.3",
+    "grunt-responsive-images": "1.10.1"
+  }
+}
